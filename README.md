@@ -16,7 +16,9 @@ NA
 ## Usage
 A refractored code, used to update the sites' accessibility and improve the SEO can be viewed as follows:
 
-![Horiseon Site](/assets/images/webpage1.png)
+![Marketing Site Top](Develop/assets/images/webpage1.png)
+
+![Marketing Site Bottom](Develop/assets/images/webpage2.png)
 
 ## Credits
 
