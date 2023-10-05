@@ -16,9 +16,9 @@ NA
 ## Usage
 A refractored code, used to update the sites' accessibility and improve the SEO can be viewed as follows:
 
-![Marketing Site Top](Develop/assets/images/webpage1.png)
+![Marketing Site Top](/assets/images/webpage1.png)
 
-![Marketing Site Bottom](Develop/assets/images/webpage2.png)
+![Marketing Site Bottom](/assets/images/webpage2.png)
 
 ## Credits
 
